@@ -10,12 +10,18 @@ A machine learning-powered web application that classifies emails as spam or leg
 - Visual feedback with color-coded results
 - High accuracy spam detection (96.5% on test data)
 
+<img width="500" alt="Screenshot 2024-12-29 at 9 24 00 PM" src="https://github.com/user-attachments/assets/c7702edd-0a82-4a06-9555-e84dcb48fe9a" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 24 11 PM" src="https://github.com/user-attachments/assets/bbac9700-b4ce-4465-8fcd-077737c5f6db" />
+
+
+
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, Font Awesome
 - **Backend:** Flask, Python
 - **Machine Learning:** 
   - scikit-learn
+
   - TF-IDF Vectorization
   - Logistic Regression
 - **Data Processing:** pandas, numpy
